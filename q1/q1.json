@@ -1,0 +1,6 @@
+{
+"most_active"​ : {"attacker_king": "John" , "defender_king" :"Jake"​ , "region":"Spain"​ ,"name":"john"},
+"attacker_outcome" :{ "win"​:"John" , ​"loss" : "Jake"​ ​},
+"battle_type"​ :["war"], ​ 
+"defender_size"​ :{ "average" :10 ,"min"​:1 ,"max":100 }
+}

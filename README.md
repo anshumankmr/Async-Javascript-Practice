@@ -7,7 +7,7 @@
 
 
 ## Project Description
-
+The solutions to the  questions are stored in the folder  q1, q2 , q3 and q4 respectively.
 ### Getting Started with Question 1
 Install the collections modules first.
 ```
